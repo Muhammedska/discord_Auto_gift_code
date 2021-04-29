@@ -1,2 +1,3 @@
 # discord_Auto_gift_code
-oto gift kodu giriyor
+
+Python selenium ile yapıldı otomatik discord nitro gift code deneyen program
